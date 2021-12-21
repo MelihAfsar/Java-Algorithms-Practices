@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHello/javaHello.iml" filepath="$PROJECT_DIR$/javaHello/javaHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeAsalSAyi/miniProjeAsalSAyi.iml" filepath="$PROJECT_DIR$/miniProjeAsalSAyi/miniProjeAsalSAyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeMukemmelSayi/miniProjeMukemmelSayi.iml" filepath="$PROJECT_DIR$/miniProjeMukemmelSayi/miniProjeMukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeSesliHarfler/miniProjeSesliHarfler.iml" filepath="$PROJECT_DIR$/miniProjeSesliHarfler/miniProjeSesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemoProject/reCapDemoProject.iml" filepath="$PROJECT_DIR$/reCapDemoProject/reCapDemoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemoProject2/reCapDemoProject2.iml" filepath="$PROJECT_DIR$/reCapDemoProject2/reCapDemoProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/İnterfaceDemo/İnterfaceDemo.iml" filepath="$PROJECT_DIR$/İnterfaceDemo/İnterfaceDemo.iml" />
+    </modules>
+  </component>
+</project>
